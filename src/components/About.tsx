@@ -45,7 +45,7 @@ export default function About() {
             </p>
 
             <p className="font-bold text-base sm:text-lg leading-relaxed mt-5">
-              Currently based in Chiang Mai and traveling worldwide.
+              Currently based in Spain.
             </p>
           </div>
 
